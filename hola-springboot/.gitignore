@@ -1,0 +1,7 @@
+target/
+*.iml
+*.swp
+.DS_Store
+*.un~
+.mvn/
+.idea/
